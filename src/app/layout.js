@@ -1,5 +1,6 @@
 import "./globals.css";
 import { Urbanist } from 'next/font/google'
+import Navbar from "@/components/shared/Navbar";
 
 // If loading a variable font, you don't need to specify the font weight
 const urbanist = Urbanist({
@@ -19,11 +20,13 @@ export const metadata = {
 
 export default function RootLayout({ children }) {
   return (
-    <html lang="en" >
+    <html lang="en" data-theme="light">
       <body className={urbanist.className}>
 
-        <main className="max-w-[1440px] mx-auto  bg-red-300">
+        <main className="max-w-[1450px] mx-auto bg-[#FAFDF2]">
+          <Navbar />
           {children}
+          {/* <Footer /> */}
         </main>
 
       </body>
