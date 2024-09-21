@@ -12,7 +12,7 @@ module.exports = {
         foreground: "var(--foreground)",
       },
       screens: {
-        'mobile': '390px',    // Mobile devices
+        'mobile': '325px',    // Mobile devices
         'tablet': '768px',    // Tablet or smaller devices between mobile and medium
         'medium': '1024px',   // Medium devices
         'laptop': '1440px',   // Laptop devices
