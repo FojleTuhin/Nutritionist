@@ -99,7 +99,7 @@ export default function Home() {
     // </div>
 
     <div>
-      <p className="font-bold text-3xl text-red-500">Hello i am next js</p>
+      <p className="laptop:text-4xl">Hello i am next js</p>
     </div>
   );
 }
