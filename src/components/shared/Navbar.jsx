@@ -73,7 +73,7 @@ const Navbar = () => {
                         src={logo}
                         alt="Picture of the ball"
                     />
-                    <span className="text-lg font-semibold">Nutritionist</span>
+                    <span className="text-lg font-bold">Nutritionist</span>
                 </Link>
                 <div className="hidden medium:flex gap-5 items-center">
                     <Link href="#" className="text-[14px] font-semibold rounded-[6px] hover:underline underline-offset-4" prefetch={false}>
