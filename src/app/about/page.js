@@ -1,8 +1,9 @@
+import TopBanner from "@/components/aboutPage/TopBanner";
 
 const page = () => {
     return (
         <div>
-            I am from about page
+            <TopBanner/>
         </div>
     );
 };
