@@ -9,8 +9,8 @@ import img6 from '../../../public/backpack.fill.svg'
 const Feature = () => {
     return (
         <div className="mt-[50px] medium:mt-20 laptop:mt-[100px] px-4 tablet:px-10 medium:px-[60px] laptop:px-20">
-            <p className="text-[#262626] text-[28px] medium:text-[38px] font-bold text-center">Features</p>
-            <p className="text-[#333333] text-[14px] medium:text-[16px] font-medium text-center ">Welcome to the Feature Section of Nutritionist, your ultimate destination for all things nutrition and wellness.</p>
+            <p className="text-[#262626] text-[28px] medium:text-[38px] laptop:text-[48px] font-bold text-center">Features</p>
+            <p className="text-[#333333] text-[14px] medium:text-[16px] laptop:text-[18px] font-medium text-center mb-[50px] medium:mb-[60px]">Welcome to the Feature Section of Nutritionist, your ultimate destination for all things nutrition and wellness.</p>
 
 
             <div className="grid tablet:grid-cols-2 gap-5 mt-[50px]">

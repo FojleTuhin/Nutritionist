@@ -1,12 +1,13 @@
 
-
-
 import Image from "next/image";
 import testimonial from "../../../public/testimonial.svg"
 import img9 from "../../../public/Image9.png"
 
 
 const Testimonial = () => {
+
+
+
     return (
         <div className="mt-[50px] medium:mt-20 laptop:mt-[100px] px-4 tablet:px-10 medium:px-[60px] laptop:px-20">
             <p className="text-[#262626] text-[28px] medium:text-[38px] font-bold text-center">Our Testimonials</p>
@@ -14,7 +15,7 @@ const Testimonial = () => {
 
 
 
-
+            {/* card */}
             <div>
                 <div className="p-6 rounded-t-[16px] w-[358px] border-[1px] border-[#EEF8D3] border-b-0 bg-[#FAFDF2]">
                     <Image
@@ -36,11 +37,8 @@ const Testimonial = () => {
 
             </div>
 
+            
 
-
-            <div>
-                
-            </div>
 
 
 

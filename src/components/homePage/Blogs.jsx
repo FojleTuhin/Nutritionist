@@ -13,8 +13,8 @@ import save from '../../../public/save.svg'
 const Blogs = () => {
     return (
         <div className="mt-[50px] medium:mt-20 laptop:mt-[100px] px-4 tablet:px-10 medium:px-[60px] laptop:px-20">
-            <p className="text-[#262626] text-[28px] medium:text-[38px] font-bold text-center">Our Blogs</p>
-            <p className="text-[#333333] tablet:w-[60%] mx-auto text-[14px] medium:text-[16px] font-medium text-center mb-[50px]">Our blog is a treasure trove of informative and engaging articles written by our team of nutritionists, dietitians, and wellness experts. Here's what you can expect from our blog..</p>
+            <p className="text-[#262626] text-[28px] medium:text-[38px] laptop:text-[48px] font-bold text-center">Our Blogs</p>
+            <p className="text-[#333333] tablet:w-[60%] mx-auto text-[14px] medium:text-[16px] laptop:text-[18px] font-medium text-center mb-[50px] medium:mb-[60px]">Our blog is a treasure trove of informative and engaging articles written by our team of nutritionists, dietitians, and wellness experts. Here's what you can expect from our blog..</p>
             <div className='flex flex-wrap gap-5 justify-center'>
 
                 {/* card 1 */}
@@ -214,7 +214,7 @@ const Blogs = () => {
 
                 </div>
 
-                
+
 
             </div>
         </div>

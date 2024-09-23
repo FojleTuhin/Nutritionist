@@ -2,7 +2,8 @@ import React from 'react';
 import Hero from './Hero';
 import Feature from './Feature';
 import Blogs from './Blogs';
-import Testimonial from './Testimonial';
+import Pricing from './Pricing';
+// import Testimonial from './Testimonial';
 
 const HomePage = () => {
     return (
@@ -10,7 +11,8 @@ const HomePage = () => {
            <Hero/>
            <Feature/>
            <Blogs/>
-           <Testimonial/>
+           {/* <Testimonial/> */}
+           <Pricing/>
         </div>
     );
 };
