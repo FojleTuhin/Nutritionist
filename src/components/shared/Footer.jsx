@@ -11,7 +11,7 @@ import { RiCopyrightLine } from "react-icons/ri";
 const Footer = () => {
     return (
         <div>
-            <div className='medium:px-[80px] medium:py-[40px] px-4 py-[30px]  border-0 border-t-[1px] bg-[#1A3129] border-[#262626] flex flex-col gap-[40px] '>
+            <div className='mt-[100px] medium:px-[80px] medium:py-[40px] px-4 py-[30px]  border-0 border-t-[1px] bg-[#1A3129] border-[#262626] flex flex-col gap-[40px] '>
                 <div>
                     <div className='flex justify-between items-center'>
                         <div className='flex items-center text-[#FFFFFF] gap-2 font-bold'>
