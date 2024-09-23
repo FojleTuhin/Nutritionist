@@ -52,7 +52,7 @@ module.exports = {
   		},
   		screens: {
   			mobile: '300px',
-  			tablet: '768px',
+  			tablet: '800px',
   			medium: '1024px',
   			laptop: '1440px'
   		},
