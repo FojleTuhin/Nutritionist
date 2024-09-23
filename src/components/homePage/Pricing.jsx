@@ -1,5 +1,7 @@
 import React from 'react';
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
+import MonthlyTab from './MonthlyTab';
+import YearlyTab from './YearlyTab';
 
 
 const Pricing = () => {
@@ -14,12 +16,15 @@ const Pricing = () => {
                         <TabsTrigger value="monthly" className="py-[10px] px-6 text-[14px] font-semibold">Monthly</TabsTrigger>
                         <TabsTrigger value="yearly" className="py-[10px] px-6 text-[14px] font-semibold">Yearly</TabsTrigger>
                     </TabsList>
+
+                    <p className='mt-[10px] mb-10 text-[#4C4C4D] font-medium'>Save 50% on Yearly</p>
+
                     <TabsContent value="monthly">
-                        <div>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae perspiciatis itaque, iusto assumenda, suscipit ad mollitia officia eos esse perferendis placeat architecto quis accusamus labore. Blanditiis eveniet sequi repellat eligendi reiciendis explicabo, aliquam veritatis beatae officia. Tempora modi maxime obcaecati!</p>
-                        </div>
+                        <MonthlyTab/>
                     </TabsContent>
-                    <TabsContent value="yearly">Change your password here.</TabsContent>
+                    <TabsContent value="yearly">
+                        <YearlyTab/>
+                    </TabsContent>
                 </Tabs>
 
             </div>
