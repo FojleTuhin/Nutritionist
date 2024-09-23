@@ -76,10 +76,10 @@ const Navbar = () => {
                     <span className="text-lg font-bold">Nutritionist</span>
                 </Link>
                 <div className="hidden medium:flex gap-5 items-center">
-                    <Link href="#" className="text-[14px] font-semibold rounded-[6px] hover:underline underline-offset-4" prefetch={false}>
+                    <Link href="/" className="text-[14px] font-semibold rounded-[6px] hover:underline underline-offset-4" prefetch={false}>
                         Home
                     </Link>
-                    <Link href="#" className="text-[14px] font-semibold rounded-[6px] hover:underline underline-offset-4" prefetch={false}>
+                    <Link href="/about" className="text-[14px] font-semibold rounded-[6px] hover:underline underline-offset-4" prefetch={false}>
                         About
                     </Link>
                     <Link href="#" className="text-[14px] font-semibold rounded-[6px] hover:underline underline-offset-4" prefetch={false}>
