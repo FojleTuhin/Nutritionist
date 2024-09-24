@@ -23,13 +23,13 @@ const Footer = () => {
                         </div>
                         <div className='hidden medium:block'>
                             <div className='flex gap-4 text-[#FFFFFF] text-[14px] font-semibold'>
-                                <Link href="#" className=" hover:underline underline-offset-4" prefetch={false}>
+                                <Link href="/" className=" hover:underline underline-offset-4" prefetch={false}>
                                     Home
                                 </Link>
-                                <Link href="#" className=" hover:underline underline-offset-4" prefetch={false}>
+                                <Link href="/about" className=" hover:underline underline-offset-4" prefetch={false}>
                                     About
                                 </Link>
-                                <Link href="#" className=" hover:underline underline-offset-4" prefetch={false}>
+                                <Link href="/team" className=" hover:underline underline-offset-4" prefetch={false}>
                                     Team
                                 </Link>
                                 <Link href="#" className=" hover:underline underline-offset-4" prefetch={false}>
@@ -49,7 +49,7 @@ const Footer = () => {
                         </div>
                         <div className='text-[#FFFFFF] text-[16px] font-semibold flex items-center gap-5'>
                             <p>Got To Top</p>
-                            <p className='p-[14px] bg-[#234338] rounded-full'><FaArrowUp /></p>
+                            <p className='p-[14px] bg-[#234338] rounded-full '><Link href="#"><FaArrowUp /></Link></p>
 
 
                         </div>
