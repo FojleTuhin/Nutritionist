@@ -98,16 +98,16 @@ const Navbar = () => {
                         Contact Us
                     </Link>
                 </div>
-                <Sheet>
+                <Sheet >
                     <SheetTrigger asChild>
                         <Button variant="outline" size="icon" className="lg:hidden group bg-[#1A3129] border-0 hover:bg-[#EEF8D3]">
                             <MenuIcon className="h-6 w-6 text-[#EEF8D3] p-0 group-hover:text-[#1A3129]" />
                             <span className="sr-only">Toggle navigation menu</span>
                         </Button>
                     </SheetTrigger>
-                    <SheetContent side="left">
-                        <div className="grid w-[200px] p-4">
-                            <Link href="/" className="text-[14px] font-semibold rounded-[6px] hover:underline underline-offset-4" prefetch={false}>
+                    <SheetContent side="left" className='bg-[#234338] bg-opacity-40 border-none text-white'>
+                        <div className="grid w-[200px] p-4 gap-5">
+                            <Link href="/" className="text-[14px]  font-semibold rounded-[6px] hover:underline underline-offset-4" prefetch={false}>
                                 Home
                             </Link>
                             <Link href="/about" className="text-[14px] font-semibold rounded-[6px] hover:underline underline-offset-4" prefetch={false}>
@@ -125,7 +125,7 @@ const Navbar = () => {
                             <Link href="#" className="text-[14px] font-semibold rounded-[6px] hover:underline underline-offset-4" prefetch={false}>
                                 Blog
                             </Link>
-                            <Link href="#" className="text-[14px] font-semibold rounded-[6px] bg-[#CBEA7B] px-4 py-3 text-[#262626] hover:underline underline-offset-4" prefetch={false}>
+                            <Link href="#" className="text-[14px] font-semibold rounded-[6px] bg-[#CBEA7B] px-4 py-3 text-center text-[#262626] hover:underline underline-offset-4" prefetch={false}>
                                 Contact Us
                             </Link>
                         </div>
