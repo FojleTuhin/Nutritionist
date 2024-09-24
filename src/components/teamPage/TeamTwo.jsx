@@ -18,6 +18,18 @@ const TeamTwo = () => {
                     <p className='font-medium text-[#4C4C4D]'>Founder and CEO</p>
                 </div>
             </div>
+
+            <div className='w-[305] relative h-[384px]'>
+                <Image
+                    src={img4}
+                    alt='image' />
+
+                <div className='p-5 bg-[#F6FBE9] rounded-tr-[20px] w-[245px] absolute bottom-0'>
+                    <p className='font-semibold text-[20px] text-[#262626]'>Rachel Adams</p>
+                    <p className='font-medium text-[#4C4C4D]'>Chief Marketing Officer</p>
+                </div>
+            </div>
+
             <div className='w-[305] relative h-[384px]'>
                 <Image
                     src={img2}
@@ -36,16 +48,6 @@ const TeamTwo = () => {
                 <div className='p-5 bg-[#F6FBE9] rounded-tr-[20px] w-[245px] absolute bottom-0'>
                     <p className='font-semibold text-[20px] text-[#262626]'>John Davis</p>
                     <p className='font-medium text-[#4C4C4D]'>Chief Financial Officer</p>
-                </div>
-            </div>
-            <div className='w-[305] relative h-[384px]'>
-                <Image
-                    src={img4}
-                    alt='image' />
-
-                <div className='p-5 bg-[#F6FBE9] rounded-tr-[20px] w-[245px] absolute bottom-0'>
-                    <p className='font-semibold text-[20px] text-[#262626]'>Rachel Adams</p>
-                    <p className='font-medium text-[#4C4C4D]'>Chief Marketing Officer</p>
                 </div>
             </div>
         </div>
