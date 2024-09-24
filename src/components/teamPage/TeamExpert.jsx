@@ -18,13 +18,7 @@ const TeamExpert = () => {
       
 
 
-            <div className='bg-[#234338] p-5 medium:py-5 medium:px-20 rounded-b-[10px] text-[#FFFFFF] font-semibold flex gap-5 medium:justify-between items-center overflow-auto overflow-x-scroll whitespace-nowrap scrollbar-hide'>
-                <p className='hover:py-3 hover:px-[18px] hover:bg-[#2C5446] hover:border-[1px] hover:border-[#356554] hover:rounded-[6px]'>Management Team</p>
-                <p className='hover:py-3 hover:px-[18px] hover:bg-[#2C5446] hover:border-[1px] hover:border-[#356554] hover:rounded-[6px]'>Nutritionists and Dietitians</p>
-                <p className='hover:py-3 hover:px-[18px] hover:bg-[#2C5446] hover:border-[1px] hover:border-[#356554] hover:rounded-[6px]'>Customer Support</p>
-                <p className='hover:py-3 hover:px-[18px] hover:bg-[#2C5446] hover:border-[1px] hover:border-[#356554] hover:rounded-[6px]'>Marketing and Communications</p>
-                <p className='hover:py-3 hover:px-[18px] hover:bg-[#2C5446] hover:border-[1px] hover:border-[#356554] hover:rounded-[6px]'>Technology and Development</p>
-            </div>
+            
 
 
         
