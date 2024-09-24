@@ -10,6 +10,8 @@ module.exports = {
 		extend: {
 			backgroundImage: {
 				'custom-radial': 'radial-gradient(86.18% 86.18% at 50% 34.21%, #CBEA7B 0%, rgba(203, 234, 123, 0) 71.35%)',
+				// 'custom-radial': 'radial-gradient(86.18% 86.18% at 50% 34.21%, #CBEA7B 0%, rgba(203, 234, 123, 0) 71.35%)',
+
 			},
 			colors: {
 				background: 'hsl(var(--background))',
