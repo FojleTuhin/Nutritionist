@@ -22,6 +22,9 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en" data-theme="light">
+      <head>
+      <link rel="icon" href="/logo.svg" sizes="any" />
+      </head>
       <body className={urbanist.className}>
 
         <main className="max-w-[1450px] mx-auto bg-[#FAFDF2]">
