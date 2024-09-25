@@ -32,7 +32,7 @@ const Footer = () => {
                                 <Link href="/team" className=" hover:underline underline-offset-4" prefetch={false}>
                                     Team
                                 </Link>
-                                <Link href="#" className=" hover:underline underline-offset-4" prefetch={false}>
+                                <Link href="/process" className=" hover:underline underline-offset-4" prefetch={false}>
                                     Process
                                 </Link>
                                 <Link href="#" className=" hover:underline underline-offset-4" prefetch={false}>

@@ -85,7 +85,7 @@ const Navbar = () => {
                     <Link href="/team" className="text-[14px] font-semibold rounded-[6px] hover:underline underline-offset-4" prefetch={false}>
                         Team
                     </Link>
-                    <Link href="#" className="text-[14px] font-semibold rounded-[6px] hover:underline underline-offset-4" prefetch={false}>
+                    <Link href="/process" className="text-[14px] font-semibold rounded-[6px] hover:underline underline-offset-4" prefetch={false}>
                         Process
                     </Link>
                     <Link href="#" className="text-[14px] font-semibold rounded-[6px] hover:underline underline-offset-4" prefetch={false}>
@@ -116,7 +116,7 @@ const Navbar = () => {
                             <Link href="/team" className="text-[14px] font-semibold rounded-[6px] hover:underline underline-offset-4" prefetch={false}>
                                 Team
                             </Link>
-                            <Link href="#" className="text-[14px] font-semibold rounded-[6px] hover:underline underline-offset-4" prefetch={false}>
+                            <Link href="/process" className="text-[14px] font-semibold rounded-[6px] hover:underline underline-offset-4" prefetch={false}>
                                 Process
                             </Link>
                             <Link href="#" className="text-[14px] font-semibold rounded-[6px] hover:underline underline-offset-4" prefetch={false}>
