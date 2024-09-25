@@ -68,7 +68,7 @@ const Navbar = () => {
 
             {/* 2nd Div  */}
             <div className="flex items-center justify-between py-5 px-4 medium:px-20 medium:py-4 bg-[#1A3129] text-[#FFFFFF] border-b-[1px] border-0 border-b-[#EEF8D3] medium:h-[77px] mobile:h-[74px]">
-                <Link href="#" className="flex items-center gap-2" prefetch={false}>
+                <Link href="/" className="flex items-center gap-2" prefetch={false}>
                     <Image
                         src={logo}
                         alt="Picture of the ball"

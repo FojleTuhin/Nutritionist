@@ -14,13 +14,15 @@ const Footer = () => {
             <div className='mt-[100px] medium:px-[80px] medium:py-[40px] px-4 py-[30px]  border-0 border-t-[1px] bg-[#1A3129] border-[#262626] flex flex-col gap-[40px] '>
                 <div>
                     <div className='flex justify-between items-center'>
-                        <div className='flex items-center text-[#FFFFFF] gap-2 font-bold'>
-                            <Image
-                                src={logo}
-                                alt='logo'
-                            />
-                            <p>Nutritionist</p>
-                        </div>
+                        <Link href='/'>
+                            <div className='flex items-center text-[#FFFFFF] gap-2 font-bold'>
+                                <Image
+                                    src={logo}
+                                    alt='logo'
+                                />
+                                <p>Nutritionist</p>
+                            </div>
+                        </Link>
                         <div className='hidden medium:block'>
                             <div className='flex gap-4 text-[#FFFFFF] text-[14px] font-semibold'>
                                 <Link href="/" className=" hover:underline underline-offset-4" prefetch={false}>
