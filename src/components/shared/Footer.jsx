@@ -37,7 +37,7 @@ const Footer = () => {
                                 <Link href="/process" className=" hover:underline underline-offset-4" prefetch={false}>
                                     Process
                                 </Link>
-                                <Link href="#" className=" hover:underline underline-offset-4" prefetch={false}>
+                                <Link href="/pricing" className=" hover:underline underline-offset-4" prefetch={false}>
                                     Pricing
                                 </Link>
                                 <Link href="#" className=" hover:underline underline-offset-4" prefetch={false}>
@@ -59,19 +59,19 @@ const Footer = () => {
                     </div>
                     <div className='medium:hidden'>
                         <div className='flex flex-wrap mt-5 gap-4 text-[#FFFFFF] text-[14px] font-semibold'>
-                            <Link href="#" className=" hover:underline underline-offset-4" prefetch={false}>
+                            <Link href="/" className=" hover:underline underline-offset-4" prefetch={false}>
                                 Home
                             </Link>
-                            <Link href="#" className=" hover:underline underline-offset-4" prefetch={false}>
+                            <Link href="/about" className=" hover:underline underline-offset-4" prefetch={false}>
                                 About
                             </Link>
-                            <Link href="#" className=" hover:underline underline-offset-4" prefetch={false}>
+                            <Link href="/team" className=" hover:underline underline-offset-4" prefetch={false}>
                                 Team
                             </Link>
-                            <Link href="#" className=" hover:underline underline-offset-4" prefetch={false}>
+                            <Link href="/process" className=" hover:underline underline-offset-4" prefetch={false}>
                                 Process
                             </Link>
-                            <Link href="#" className=" hover:underline underline-offset-4" prefetch={false}>
+                            <Link href="/pricing" className=" hover:underline underline-offset-4" prefetch={false}>
                                 Pricing
                             </Link>
                             <Link href="#" className=" hover:underline underline-offset-4" prefetch={false}>
