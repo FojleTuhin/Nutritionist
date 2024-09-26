@@ -19,7 +19,7 @@ const HowItWorks = () => {
             <div className='mt-[50px] medium:mt-[80px] laptop:mt-[100px] grid tablet:grid-cols-2 gap-5 tablet:[30px] laptop:gap-10'>
                 <div className='relative h-[325px] tablet:h-[320px] medium:h-[360px]'>
                     <p className='text-[#468671] text-[80px] medium:text-[100px] font-bold '>01</p>
-                    <div className=' absolute bottom-9 tablet:bottom-0 laptop:bottom-4'>
+                    <div className=' absolute bottom-9 tablet:bottom-7 laptop:bottom-4'>
                         <div className="p-[20px] medium:p-[40px] bg-[#F6FBE9] border-[1px] medium:h-[250px] h-[215px] border-[#E5F5BD] rounded-[10px]">
                             <div className="flex gap-[10px] items-center mb-4 medium:mb-5">
                                 <div className="p-[14px] h-[54px] w-[54px] flex justify-center items-center bg-[#CBEA7B] rounded-[6px]">
@@ -40,7 +40,7 @@ const HowItWorks = () => {
 
                 <div className='relative h-[325px] tablet:h-[320px] medium:h-[360px]'>
                     <p className='text-[#468671] text-[80px] medium:text-[100px] font-bold '>02</p>
-                    <div className=' absolute bottom-9 tablet:bottom-0 laptop:bottom-4'>
+                    <div className=' absolute bottom-9 tablet:bottom-7 laptop:bottom-4'>
                         <div className="p-[20px] medium:p-[40px] bg-[#F6FBE9] border-[1px] medium:h-[250px] h-[215px] border-[#E5F5BD] rounded-[10px]">
                             <div className="flex gap-[10px] items-center mb-4 medium:mb-5">
                                 <div className="p-[14px] h-[54px] w-[54px] flex justify-center items-center bg-[#CBEA7B] rounded-[6px]">
@@ -61,7 +61,7 @@ const HowItWorks = () => {
 
                 <div className='relative h-[325px] tablet:h-[320px] medium:h-[360px]'>
                     <p className='text-[#468671] text-[80px] medium:text-[100px] font-bold '>03</p>
-                    <div className=' absolute bottom-9 tablet:bottom-0 laptop:bottom-4'>
+                    <div className=' absolute bottom-9 tablet:bottom-7 laptop:bottom-4'>
                         <div className="p-[20px] medium:p-[40px] bg-[#F6FBE9] border-[1px] medium:h-[250px] h-[215px] border-[#E5F5BD] rounded-[10px]">
                             <div className="flex gap-[10px] items-center mb-4 medium:mb-5">
                                 <div className="p-[14px] h-[54px] w-[54px] flex justify-center items-center bg-[#CBEA7B] rounded-[6px]">
@@ -82,7 +82,7 @@ const HowItWorks = () => {
 
                 <div className='relative h-[325px] tablet:h-[320px] medium:h-[360px]'>
                     <p className='text-[#468671] text-[80px] medium:text-[100px] font-bold '>04</p>
-                    <div className=' absolute bottom-9 tablet:bottom-0 laptop:bottom-4'>
+                    <div className=' absolute bottom-9 tablet:bottom-7 laptop:bottom-4'>
                         <div className="p-[20px] medium:p-[40px] bg-[#F6FBE9] border-[1px] medium:h-[250px] h-[215px] border-[#E5F5BD] rounded-[10px]">
                             <div className="flex gap-[10px] items-center mb-4 medium:mb-5">
                                 <div className="p-[14px] h-[54px] w-[54px] flex justify-center items-center bg-[#CBEA7B] rounded-[6px]">
@@ -104,7 +104,7 @@ const HowItWorks = () => {
 
                 <div className='relative h-[325px] tablet:h-[320px] medium:h-[360px]'>
                     <p className='text-[#468671] text-[80px] medium:text-[100px] font-bold '>05</p>
-                    <div className=' absolute bottom-9 tablet:bottom-0 laptop:bottom-4'>
+                    <div className=' absolute bottom-9 tablet:bottom-7 laptop:bottom-4'>
                         <div className="p-[20px] medium:p-[40px] bg-[#F6FBE9] border-[1px] medium:h-[250px] h-[215px] border-[#E5F5BD] rounded-[10px]">
                             <div className="flex gap-[10px] items-center mb-4 medium:mb-5">
                                 <div className="p-[14px] h-[54px] w-[54px] flex justify-center items-center bg-[#CBEA7B] rounded-[6px]">
@@ -126,7 +126,7 @@ const HowItWorks = () => {
 
                 <div className='relative h-[325px] tablet:h-[320px] medium:h-[360px]'>
                     <p className='text-[#468671] text-[80px] medium:text-[100px] font-bold '>06</p>
-                    <div className=' absolute bottom-9 tablet:bottom-0 laptop:bottom-4'>
+                    <div className=' absolute bottom-9 tablet:bottom-7 laptop:bottom-4'>
                         <div className="p-[20px] medium:p-[40px] bg-[#F6FBE9] border-[1px] medium:h-[250px] h-[215px] border-[#E5F5BD] rounded-[10px]">
                             <div className="flex gap-[10px] items-center mb-4 medium:mb-5">
                                 <div className="p-[14px] h-[54px] w-[54px] flex justify-center items-center bg-[#CBEA7B] rounded-[6px]">
@@ -149,7 +149,7 @@ const HowItWorks = () => {
 
                 <div className='relative h-[325px] tablet:h-[320px] medium:h-[360px]'>
                     <p className='text-[#468671] text-[80px] medium:text-[100px] font-bold '>07</p>
-                    <div className=' absolute bottom-9 tablet:bottom-0 laptop:bottom-4'>
+                    <div className=' absolute bottom-9 tablet:bottom-7 laptop:bottom-4'>
                         <div className="p-[20px] medium:p-[40px] bg-[#F6FBE9] border-[1px] medium:h-[250px] h-[215px] border-[#E5F5BD] rounded-[10px]">
                             <div className="flex gap-[10px] items-center mb-4 medium:mb-5">
                                 <div className="p-[14px] h-[54px] w-[54px] flex justify-center items-center bg-[#CBEA7B] rounded-[6px]">
@@ -172,7 +172,7 @@ const HowItWorks = () => {
 
                 <div className='relative h-[325px] tablet:h-[320px] medium:h-[360px]'>
                     <p className='text-[#468671] text-[80px] medium:text-[100px] font-bold '>08</p>
-                    <div className=' absolute bottom-9 tablet:bottom-0 laptop:bottom-4'>
+                    <div className=' absolute bottom-9 tablet:bottom-7 laptop:bottom-4'>
                         <div className="p-[20px] medium:p-[40px] bg-[#F6FBE9] border-[1px] medium:h-[250px] h-[215px] border-[#E5F5BD] rounded-[10px]">
                             <div className="flex gap-[10px] items-center mb-4 medium:mb-5">
                                 <div className="p-[14px] h-[54px] w-[54px] flex justify-center items-center bg-[#CBEA7B] rounded-[6px]">
@@ -194,7 +194,7 @@ const HowItWorks = () => {
 
                 <div className='relative h-[325px] tablet:h-[320px] medium:h-[360px]'>
                     <p className='text-[#468671] text-[80px] medium:text-[100px] font-bold '>09</p>
-                    <div className=' absolute bottom-9 tablet:bottom-0 laptop:bottom-4'>
+                    <div className=' absolute bottom-9 tablet:bottom-7 laptop:bottom-4'>
                         <div className="p-[20px] medium:p-[40px] bg-[#F6FBE9] border-[1px] medium:h-[250px] h-[215px] border-[#E5F5BD] rounded-[10px]">
                             <div className="flex gap-[10px] items-center mb-4 medium:mb-5">
                                 <div className="p-[14px] h-[54px] w-[54px] flex justify-center items-center bg-[#CBEA7B] rounded-[6px]">
@@ -216,7 +216,7 @@ const HowItWorks = () => {
 
                 <div className='relative h-[325px] tablet:h-[320px] medium:h-[360px]'>
                     <p className='text-[#468671] text-[80px] medium:text-[100px] font-bold '>10</p>
-                    <div className=' absolute bottom-9 tablet:bottom-0 laptop:bottom-4'>
+                    <div className=' absolute bottom-9 tablet:bottom-7 laptop:bottom-4'>
                         <div className="p-[20px] medium:p-[40px] bg-[#F6FBE9] border-[1px] medium:h-[250px] h-[215px] border-[#E5F5BD] rounded-[10px]">
                             <div className="flex gap-[10px] items-center mb-4 medium:mb-5">
                                 <div className="p-[14px] h-[54px] w-[54px] flex justify-center items-center bg-[#CBEA7B] rounded-[6px]">
