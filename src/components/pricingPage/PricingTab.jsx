@@ -1,6 +1,7 @@
 import React from 'react';
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
 import MonthlyTab from './MonthlyTab';
+import YearlyTab from './YearlyTab';
 
 
 
@@ -23,7 +24,7 @@ const PricingTab = () => {
                         <MonthlyTab />
                     </TabsContent>
                     <TabsContent value="yearly">
-                        {/* <YearlyTab /> */}yearly
+                       <YearlyTab/>
 
                     </TabsContent>
                 </Tabs>
