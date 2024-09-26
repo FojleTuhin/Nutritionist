@@ -9,6 +9,10 @@ import bolt from "../../../public/bolt.shield.fill.svg";
 import backpack from "../../../public/pin.fill.svg";
 import cap from "../../../public/graduationcap.fill.svg";
 import cup from "../../../public/cup.and.saucer.fill.svg";
+import right from '../../../public/right.svg'
+import bottom from '../../../public/bottom.svg'
+
+
 const HowItWorks = () => {
     return (
         <div className='mt-[50px] medium:mt-[80px] laptop:mt-[100px]'>
@@ -236,6 +240,29 @@ const HowItWorks = () => {
                 </div>
 
 
+
+            </div>
+
+
+
+            <div className='mt-[50px]  laptop:mt-[100px] medium:p-[60px] p-10  bg-[#F6FBE9] border-[1px] border-[#E5F5BD] rounded-[10px] relative overflow-hidden'>
+                <div className='tablet:flex gap-[150px]'>
+                    <div>
+                        <p className='font-semibold text-[#262626] medium:text-[26px] text-[22px] mb-[10px]'>Are you ready to embark on a transformative journey towards better health and wellness?</p>
+                        <p className='font-medium text-[#333333]'>Join us at Nutritionist and let us guide you on the path to a healthier and happier you.</p>
+                    </div>
+                    <div className='flex items-center'>
+                        <p className='bg-[#CBEA7B] tablet:w-[128px] mt-5 tablet:mt-0 w-full text-center font-semibold text-[14px]  py-[14px] px-5 rounded-[6px]'>Join Us Now</p>
+                    </div>
+                </div>
+                <Image
+                    className='absolute top-0 -left-4 '
+                    src={right}
+                    alt='logo' />
+                <Image
+                    className='absolute bottom-0 -right-4 '
+                    src={bottom}
+                    alt='logo' />
 
             </div>
         </div>
