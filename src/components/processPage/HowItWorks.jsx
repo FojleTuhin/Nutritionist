@@ -1,6 +1,7 @@
 import Image from 'next/image';
 import React from 'react';
 import flower from "../../../public/flag.2.crossed.fill.svg";
+import basket from "../../../public/basket.fill.svg";
 const HowItWorks = () => {
     return (
         <div className='mt-[50px] medium:mt-[80px] laptop:mt-[100px]'>
@@ -12,7 +13,7 @@ const HowItWorks = () => {
                 <div className='relative h-[325px] tablet:h-[320px] medium:h-[360px]'>
                     <p className='text-[#468671] text-[80px] medium:text-[100px] font-bold '>01</p>
                     <div className=' absolute bottom-5 tablet:bottom-0 laptop:bottom-14'>
-                        <div className="p-[30px] medium:p-[40px] bg-[#F6FBE9] border-[1px] border-[#E5F5BD] rounded-[10px]">
+                        <div className="p-[20px] medium:p-[40px] bg-[#F6FBE9] border-[1px] border-[#E5F5BD] rounded-[10px]">
                             <div className="flex gap-[10px] items-center mb-4 medium:mb-5">
                                 <div className="p-[14px] h-[54px] w-[54px] flex justify-center items-center bg-[#CBEA7B] rounded-[6px]">
                                     <Image
@@ -30,14 +31,14 @@ const HowItWorks = () => {
                     </div>
                 </div>
 
-                <div className='relative h-[325px] tablet:h-[320px] medium:h-[360px]'>
+                {/* <div className='relative h-[325px] tablet:h-[320px] medium:h-[360px]'>
                     <p className='text-[#468671] text-[80px] medium:text-[100px] font-bold '>01</p>
                     <div className=' absolute bottom-5 tablet:bottom-0 laptop:bottom-14'>
                         <div className="p-[30px] medium:p-[40px] bg-[#F6FBE9] border-[1px] border-[#E5F5BD] rounded-[10px]">
                             <div className="flex gap-[10px] items-center mb-4 medium:mb-5">
                                 <div className="p-[14px] h-[54px] w-[54px] flex justify-center items-center bg-[#CBEA7B] rounded-[6px]">
                                     <Image
-                                        src={flower}
+                                        src={basket}
                                         alt="flower image"
                                     />
                                 </div>
@@ -49,7 +50,7 @@ const HowItWorks = () => {
 
                         </div>
                     </div>
-                </div>
+                </div> */}
 
 
 
