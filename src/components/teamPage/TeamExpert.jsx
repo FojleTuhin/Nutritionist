@@ -15,6 +15,7 @@ const TeamExpert = ({ heading, subHeading }) => {
                     <p className='text-center text-[#333333] font-medium mt-[10px] medium:text-[16px] text-[14px]'>{subHeading}</p>
                 </div>
             </div>
+        
 
 
 
