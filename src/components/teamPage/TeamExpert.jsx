@@ -5,6 +5,7 @@ import '../../app/globals.css'
 
 const TeamExpert = ({ heading, subHeading }) => {
     return (
+      
         <div>
             <div className='bg-[#F6FBE9]  overflow-hidden rounded-t-[10px]  p-[30px] tablet:p-10 medium:pt-[60px]  laptop:p-20 '>
                 <div className='-mt-32 '>
