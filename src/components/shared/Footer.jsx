@@ -40,10 +40,10 @@ const Footer = () => {
                                 <Link href="/pricing" className=" hover:underline underline-offset-4" prefetch={false}>
                                     Pricing
                                 </Link>
-                                <Link href="#" className=" hover:underline underline-offset-4" prefetch={false}>
+                                <Link href="/blog" className=" hover:underline underline-offset-4" prefetch={false}>
                                     Blog
                                 </Link>
-                                <Link href="#" className=" hover:underline underline-offset-4" prefetch={false}>
+                                <Link href="/contact" className=" hover:underline underline-offset-4" prefetch={false}>
                                     Contact
                                 </Link>
 
@@ -74,10 +74,10 @@ const Footer = () => {
                             <Link href="/pricing" className=" hover:underline underline-offset-4" prefetch={false}>
                                 Pricing
                             </Link>
-                            <Link href="#" className=" hover:underline underline-offset-4" prefetch={false}>
+                            <Link href="/blog" className=" hover:underline underline-offset-4" prefetch={false}>
                                 Blog
                             </Link>
-                            <Link href="#" className=" hover:underline underline-offset-4" prefetch={false}>
+                            <Link href="/contact" className=" hover:underline underline-offset-4" prefetch={false}>
                                 Contact
                             </Link>
 

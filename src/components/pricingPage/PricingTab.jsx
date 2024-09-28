@@ -8,9 +8,7 @@ import YearlyTab from './YearlyTab';
 const PricingTab = () => {
     return (
         <div className="mt-[50px] medium:mt-20 laptop:mt-[100px] ">
-            {/* <p className="text-[#262626] text-[28px] medium:text-[38px] laptop:text-[48px] font-bold text-center">Our PricingTab</p>
-            <p className="text-[#333333] tablet:w-[60%] mx-auto text-[14px] medium:text-[16px] laptop:text-[18px] font-medium text-center mb-[50px] medium:mb-[60px]">We outline our flexible and affordable options to support you on your journey to optimal health and nutrition. We believe that everyone deserves access to personalized nutrition guidance and resources...</p> */}
-
+            
             <div>
                 <Tabs defaultValue="monthly" className='flex flex-col items-center'>
                     <TabsList className=" border-[1px] w-[207px] h-[61px] p-[10px] bg-[#FAFDF2] border-[#DCF1A7] text-[#4C4C4C]">
