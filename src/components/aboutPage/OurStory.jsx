@@ -24,12 +24,12 @@ const OurStory = () => {
 
                 {/* 1st 2nd row */}
                 <div>
-                    <div className='medium:flex  medium:w-full mobTab:w-[634px]  mx-auto'>
+                    <div className='laptop:flex  laptop:w-full mobTab:w-[634px]  mx-auto'>
                         <Image
                             className='medium:w-[644px] bg-contain w-full'
                             src={img12}
                             alt='image 12' />
-                        <div className='medium:w-3 w-auto h-[11px] medium:h-auto  bg-[#CBEA7B]'></div>
+                        <div className='laptop:w-3 w-auto h-[11px] laptop:h-auto  bg-[#CBEA7B]'></div>
                         <div className='flex-1 items-center flex'>
                             <div className=' laptop:p-[60px] p-[30px] '>
                                 <span className=' border-0 border-b-[3px] border-[#CBEA7B] py-2 text-[20px] medium:text-[24px] font-semibold'>Inspiring Transformations Story</span>
@@ -44,13 +44,13 @@ const OurStory = () => {
 
 
 
-                    <div className='medium:flex medium:flex-row-reverse  medium:w-full tablet:w-[634px]  mx-auto'>
+                    <div className='laptop:flex laptop:flex-row-reverse  laptop:w-full tablet:w-[634px]  mx-auto'>
                         <Image
 
                             src={img13}
                             alt='image 12'
                         />
-                        <div className='medium:w-3 w-auto h-[11px] medium:h-auto  bg-[#CBEA7B]'></div>
+                        <div className='laptop:w-3 w-auto h-[11px] laptop:h-auto  bg-[#CBEA7B]'></div>
                         <div className='flex-1 items-center flex'>
                             <div className=' laptop:p-[60px] p-[30px] text-right'>
                                 <span className=' border-0 border-b-[3px] border-[#CBEA7B] py-2 text-[20px] medium:text-[24px] font-semibold'>Recognition and Accolades Story</span>
@@ -67,12 +67,12 @@ const OurStory = () => {
 
                 {/* 3rd 4th row */}
                 <div>
-                    <div className='medium:flex  medium:w-full mobTab:w-[634px]  mx-auto'>
+                    <div className='laptop:flex  laptop:w-full mobTab:w-[634px]  mx-auto'>
                         <Image
                             className='medium:w-[644px] bg-contain w-full'
                             src={img14}
                             alt='image 12' />
-                        <div className='medium:w-3 w-auto h-[11px] medium:h-auto  bg-[#CBEA7B]'></div>
+                        <div className='laptop:w-3 w-auto h-[11px] laptop:h-auto  bg-[#CBEA7B]'></div>
                         <div className='flex-1 items-center flex'>
                             <div className=' laptop:p-[60px] p-[30px] '>
                                 <span className=' border-0 border-b-[3px] border-[#CBEA7B] py-2 text-[20px] medium:text-[24px] font-semibold'>Continued Growth Story</span>
@@ -87,13 +87,13 @@ const OurStory = () => {
 
 
 
-                    <div className='medium:flex medium:flex-row-reverse medium:w-full tablet:w-[634px]  mx-auto'>
+                    <div className='laptop:flex laptop:flex-row-reverse  laptop:w-full tablet:w-[634px]  mx-auto'>
                         <Image
 
                             src={img15}
                             alt='image 12'
                         />
-                        <div className='medium:w-3 w-auto h-[11px] medium:h-auto  bg-[#CBEA7B]'></div>
+                        <div className='laptop:w-3 w-auto h-[11px] laptop:h-auto  bg-[#CBEA7B]'></div>
                         <div className='flex-1 items-center flex'>
                             <div className=' laptop:p-[60px] p-[30px] text-right'>
                                 <span className=' border-0 border-b-[3px] border-[#CBEA7B] py-2 text-[20px] medium:text-[24px] font-semibold'>Collaborating for Success Story</span>
@@ -110,12 +110,12 @@ const OurStory = () => {
 
                 {/* 5th 6th row  */}
                 <div>
-                    <div className='medium:flex  medium:w-full mobTab:w-[634px]  mx-auto'>
+                    <div className='laptop:flex  laptop:w-full mobTab:w-[634px]  mx-auto'>
                         <Image
                             className='medium:w-[644px] bg-contain w-full'
                             src={img16}
                             alt='image 12' />
-                        <div className='medium:w-3 w-auto h-[11px] medium:h-auto  bg-[#CBEA7B]'></div>
+                        <div className='laptop:w-3 w-auto h-[11px] laptop:h-auto  bg-[#CBEA7B]'></div>
                         <div className='flex-1 items-center flex'>
                             <div className=' laptop:p-[60px] p-[30px] '>
                                 <span className=' border-0 border-b-[3px] border-[#CBEA7B] py-2 text-[20px] medium:text-[24px] font-semibold'>Enhanced Support Story</span>
@@ -130,13 +130,13 @@ const OurStory = () => {
 
 
 
-                    <div className='medium:flex medium:flex-row-reverse medium:w-full tablet:w-[634px]  mx-auto'>
+                    <div className='laptop:flex laptop:flex-row-reverse  laptop:w-full tablet:w-[634px]  mx-auto'>
                         <Image
 
                             src={img21}
                             alt='image 12'
                         />
-                        <div className='medium:w-3 w-auto h-[11px] medium:h-auto  bg-[#CBEA7B]'></div>
+                        <div className='laptop:w-3 w-auto h-[11px] laptop:h-auto  bg-[#CBEA7B]'></div>
                         <div className='flex-1 items-center flex'>
                             <div className=' laptop:p-[60px] p-[30px] text-right'>
                                 <span className=' border-0 border-b-[3px] border-[#CBEA7B] py-2 text-[20px] medium:text-[24px] font-semibold'>Innovating for Clients Story</span>
@@ -153,12 +153,12 @@ const OurStory = () => {
 
                 {/* 7th 8th row  */}
                 <div>
-                    <div className='medium:flex  medium:w-full mobTab:w-[634px]  mx-auto'>
+                    <div className='laptop:flex  laptop:w-full mobTab:w-[634px]  mx-auto'>
                         <Image
                             className='medium:w-[644px] bg-contain w-full'
                             src={img17}
                             alt='image 12' />
-                        <div className='medium:w-3 w-auto h-[11px] medium:h-auto  bg-[#CBEA7B]'></div>
+                        <div className='laptop:w-3 w-auto h-[11px] laptop:h-auto  bg-[#CBEA7B]'></div>
                         <div className='flex-1 items-center flex'>
                             <div className=' laptop:p-[60px] p-[30px] '>
                                 <span className=' border-0 border-b-[3px] border-[#CBEA7B] py-2 text-[20px] medium:text-[24px] font-semibold'>Celebrating Success Stories</span>
@@ -173,13 +173,13 @@ const OurStory = () => {
 
 
 
-                    <div className='medium:flex medium:flex-row-reverse medium:w-full tablet:w-[634px]  mx-auto'>
+                    <div className='laptop:flex laptop:flex-row-reverse  laptop:w-full tablet:w-[634px]  mx-auto'>
                         <Image
 
                             src={img18}
                             alt='image 12'
                         />
-                        <div className='medium:w-3 w-auto h-[11px] medium:h-auto  bg-[#CBEA7B]'></div>
+                        <div className='laptop:w-3 w-auto h-[11px] laptop:h-auto  bg-[#CBEA7B]'></div>
                         <div className='flex-1 items-center flex'>
                             <div className=' laptop:p-[60px] p-[30px] text-right'>
                                 <span className=' border-0 border-b-[3px] border-[#CBEA7B] py-2 text-[20px] medium:text-[24px] font-semibold'>Expanding Reach Story</span>
@@ -197,12 +197,12 @@ const OurStory = () => {
 
                 {/* 9th 10th row  */}
                 <div>
-                    <div className='medium:flex  medium:w-full mobTab:w-[634px]  mx-auto'>
+                    <div className='laptop:flex  laptop:w-full mobTab:w-[634px]  mx-auto'>
                         <Image
                             className='medium:w-[644px] bg-contain w-full'
                             src={img19}
                             alt='image 12' />
-                        <div className='medium:w-3 w-auto h-[11px] medium:h-auto  bg-[#CBEA7B]'></div>
+                        <div className='laptop:w-3 w-auto h-[11px] laptop:h-auto  bg-[#CBEA7B]'></div>
                         <div className='flex-1 items-center flex'>
                             <div className=' laptop:p-[60px] p-[30px] '>
                                 <span className=' border-0 border-b-[3px] border-[#CBEA7B] py-2 text-[20px] medium:text-[24px] font-semibold'>Research and Expertise Story</span>
@@ -217,13 +217,13 @@ const OurStory = () => {
 
 
 
-                    <div className='medium:flex medium:flex-row-reverse medium:w-full tablet:w-[634px]  mx-auto'>
+                    <div className='laptop:flex laptop:flex-row-reverse  laptop:w-full tablet:w-[634px]  mx-auto'>
                         <Image
 
                             src={img20}
                             alt='image 12'
                         />
-                        <div className='medium:w-3 w-auto h-[11px] medium:h-auto  bg-[#CBEA7B]'></div>
+                        <div className='laptop:w-3 w-auto h-[11px] laptop:h-auto  bg-[#CBEA7B]'></div>
                         <div className='flex-1 items-center flex'>
                             <div className=' laptop:p-[60px] p-[30px] text-right'>
                                 <span className=' border-0 border-b-[3px] border-[#CBEA7B] py-2 text-[20px] medium:text-[24px] font-semibold'>The Inception Story</span>
