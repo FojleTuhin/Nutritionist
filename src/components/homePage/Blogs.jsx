@@ -78,7 +78,7 @@ const Blogs = () => {
                     <div>
                         <p className='text-[#333333] text-[14px] laptop:text-[16px] font-laptop mt-5 laptop:mt-10'>Mindful Eating</p>
                         <p className='text-[#262626] text-[20px] laptop:text-[22px] font-semibold'>Cultivating a Healthy Relationship with Food</p>
-                        <p className='my-[18px]  text-[#4C4C4D] font-laptop text-[14px] laptop:text-[16px]'>Learn how practicing mindful eating can help you develop a healthier relationship with food and improve your overall well-being.</p>
+                        <p className='my-[18px]  text-[#4C4C4D] font-laptop text-[14px] laptop:text-[16px]'>Learn how practicing mindful eating can help you develop a healthier relationship with food </p>
 
                         <div className='p-4 border-[1px] border-[#EEF8D3]  bg-[#FAFDF2] rounded-[10px] laptop:flex gap-5 justify-between'>
                             <div className='flex gap-[10px] items-center mb-5 laptop:mb-0'>
