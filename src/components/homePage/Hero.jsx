@@ -28,7 +28,7 @@ const Hero = () => {
                         </div>
                         <div className='flex gap-[14px]'>
                             <p className='py-[14px] px-4 bg-[#CBEA7B] rounded-[6px] text-[#262626] text-[14px] font-semibold'>Get Starter Today</p>
-                            <p className='py-[14px] px-5 bg-[#F6FBE9] rounded-[6px] text-[#262626] text-[14px] font-semibold border-[#E5F5BD] border-[1px]'>Get Starter Today</p>
+                            <p className='py-[14px] px-5 bg-[#F6FBE9] rounded-[6px] text-[#262626] text-[14px] font-semibold border-[#E5F5BD] border-[1px]'>Book a Demo</p>
 
                         </div>
 
