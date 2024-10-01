@@ -99,7 +99,7 @@ const Table = () => {
                             <td className="border-r-0 border-[#DCF1A7]"> <p className='mx-auto h-8 w-8 bg-[#CBEA7B] rounded-[6px]'><MdOutlineDone className='text-[32px] p-[6px]' /></p></td>
                         </tr>
                         {/* Row 10 */}
-                        <tr className="border-b border-[#DCF1A7] text-[#262626] text-[18px] font-medium ">
+                        <tr className="border-b-0 border-[#DCF1A7] text-[#262626] text-[18px] font-medium ">
                             <td className="border-r py-5 border-[#DCF1A7]">Phone Support</td>
                             <td className="border-r border-[#DCF1A7]"> <p className='mx-auto h-8 w-8 bg-[#EEF8D3] rounded-[6px]'><RxCross2 className='text-[32px] p-[6px]' /></p></td>
 
