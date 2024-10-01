@@ -1,3 +1,4 @@
+import Faq from '@/components/pricingPage/Faq';
 import PricingTab from '@/components/pricingPage/PricingTab';
 import Table from '@/components/pricingPage/Table';
 import TeamExpert from '@/components/teamPage/TeamExpert';
@@ -10,6 +11,7 @@ const page = () => {
 
             <PricingTab/>
             <Table/>
+            <Faq/>
 
 
 
