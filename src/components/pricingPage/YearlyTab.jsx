@@ -9,7 +9,7 @@ const YearlyTab = () => {
 
 
 
-                <div className='w-[358px] max-h-[796px] laptop:w-[413px] laptop:p-10 p-[20px] rounded-[10px] border-[1px] border-[#EEF8D3] bg-[#F6FBE9] flex flex-col gap-[30px]  '>
+                <div className='tablet:w-[358px] max-h-[796px] laptop:w-[413px] laptop:p-10 p-[20px] rounded-[10px] border-[1px] border-[#EEF8D3] bg-[#F6FBE9] flex flex-col gap-[30px]  '>
                     <div>
                         <p className='text-[22px] laptop:text-[24px] font-semibold text-[#262626]'>Premium Plan</p>
                         <p className='text-[14px] laptop:text-[16px] font-medium text-[#4C4C4D]'>Up to 50% off on Yearly Plan</p>
@@ -29,7 +29,7 @@ const YearlyTab = () => {
 
 
 
-                <div className='w-[358px] laptop:w-[413px] laptop:p-10 p-[20px] rounded-[10px] border-[1px] border-[#EEF8D3] bg-[#F6FBE9] flex flex-col gap-[30px] '>
+                <div className='tablet:w-[358px] laptop:w-[413px] laptop:p-10 p-[20px] rounded-[10px] border-[1px] border-[#EEF8D3] bg-[#F6FBE9] flex flex-col gap-[30px] '>
                     <div>
                         <p className='text-[22px] laptop:text-[24px] font-semibold text-[#262626]'> Ultimate Plan</p>
                         <p className='text-[14px] laptop:text-[16px] font-medium text-[#4C4C4D]'>Up to 50% off on Yearly Plan</p>
@@ -57,7 +57,7 @@ const YearlyTab = () => {
 
 
 
-                <div className='w-[358px] max-h-[694px] laptop:w-[413px] laptop:p-10 p-[20px] rounded-[10px] border-[1px] border-[#EEF8D3] bg-[#F6FBE9] flex flex-col justify-between gap-[30px]  '>
+                <div className='tablet:w-[358px] max-h-[694px] laptop:w-[413px] laptop:p-10 p-[20px] rounded-[10px] border-[1px] border-[#EEF8D3] bg-[#F6FBE9] flex flex-col justify-between gap-[30px]  '>
                     <div>
                         <p className='text-[22px] laptop:text-[24px] font-semibold text-[#262626]'>Basic Plan</p>
                         <p className='text-[14px] laptop:text-[16px] font-medium text-[#4C4C4D]'>Up to 50% off on Yearly Plan</p>

@@ -4,7 +4,7 @@ import { RxCross2 } from "react-icons/rx";
 
 const Table = () => {
     return (
-        <div className="mt-[50px] medium:mt-20 laptop:mt-[100px] bg-[#F6FBE9] border-[1px] border-[#E5F5BD] p-[50px] ">
+        <div className="mt-[50px] medium:mt-20 laptop:mt-[100px] bg-[#F6FBE9] border-[1px] border-[#E5F5BD] p-4 medium:p-[50px] ">
             <div className="overflow-x-auto">
                 <table className="table border-collapse mx-auto">
                     {/* Table head */}
