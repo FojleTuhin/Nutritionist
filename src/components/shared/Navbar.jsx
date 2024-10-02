@@ -91,9 +91,9 @@ const Navbar = () => {
                     <Link href="/pricing" className="text-[14px] font-semibold rounded-[6px] hover:underline underline-offset-4" prefetch={false}>
                         Pricing
                     </Link>
-                    <Link href="/blog" className="text-[14px] font-semibold rounded-[6px] hover:underline underline-offset-4" prefetch={false}>
+                    {/* <Link href="/blog" className="text-[14px] font-semibold rounded-[6px] hover:underline underline-offset-4" prefetch={false}>
                         Blog
-                    </Link>
+                    </Link> */}
                     <Link href="/contact" className="text-[14px] ml-1 font-semibold rounded-[6px] bg-[#CBEA7B] px-4 py-3 text-[#262626] hover:underline underline-offset-4" prefetch={false}>
                         Contact Us
                     </Link>
@@ -122,9 +122,9 @@ const Navbar = () => {
                             <Link href="/pricing" className="text-[14px] font-semibold rounded-[6px] hover:underline underline-offset-4" prefetch={false}>
                                 Pricing
                             </Link>
-                            <Link href="/blog" className="text-[14px] font-semibold rounded-[6px] hover:underline underline-offset-4" prefetch={false}>
+                            {/* <Link href="/blog" className="text-[14px] font-semibold rounded-[6px] hover:underline underline-offset-4" prefetch={false}>
                                 Blog
-                            </Link>
+                            </Link> */}
                             <Link href="/contact" className="text-[14px] font-semibold rounded-[6px] bg-[#CBEA7B] px-4 py-3 text-center text-[#262626] hover:underline underline-offset-4" prefetch={false}>
                                 Contact Us
                             </Link>
