@@ -22,7 +22,7 @@ const Hero = () => {
                 <div className=' flex medium:flex-col flex-col-reverse p-4 tablet:p-10 medium:p-0 items-center medium:items-start laptop:gap-[50px] medium:gap-[40px] gap-[30px]'>
                     <div className='flex flex-col laptop:gap-10 gap-5 items-center medium:items-start'>
                         <div className='text-center medium:text-left'>
-                            <span className='text-[#1A3129] font-semibold text-[22px] py-2 border-0 border-b-[3px] border-[#CBEA7B] '>Transform Your ❤️ Health with</span>
+                            <span className='text-[#1A3129] font-semibold text-[18px] md:text-[22px] py-2 border-0 border-b-[3px] border-[#CBEA7B] '>Transform Your ❤️ Health with</span>
                             <p className='text-[#1A3129] laptop:text-[48px] medium:text-[44px] text-[38px] font-bold mt-[10px] mb-4'>Personalized Nutrition Coaching</p>
                             <p className='text-[#333333] font-medium'>Welcome to Nutritionist, your partner in achieving optimal health through personalized nutrition coaching. Our certified nutritionists are here to guide you on your weight loss journey, providing customized plans and ongoing support. Start your transformation today and experience the power of personalized nutrition coaching.</p>
                         </div>
