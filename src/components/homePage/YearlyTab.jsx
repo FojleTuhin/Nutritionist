@@ -2,7 +2,8 @@
 const YearlyTab = () => {
     return (
         <div>
-            <div className='flex flex-wrap justify-center gap-[20px]'>
+            <div data-aos="fade-up"
+                 className='flex flex-wrap justify-center gap-[20px]'>
 
                 {/* Basic Plan */}
                 <div className='tablet:w-[358px] laptop:w-[413px]  laptop:p-10 p-[20px] rounded-[10px] border-[1px] border-[#EEF8D3] bg-[#F6FBE9] flex flex-col gap-6'>
