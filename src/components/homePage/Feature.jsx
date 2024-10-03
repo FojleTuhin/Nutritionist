@@ -13,8 +13,8 @@ const Feature = () => {
             <p className="text-[#333333] text-[14px] medium:text-[16px] laptop:text-[18px] font-medium text-center mb-[50px] medium:mb-[60px]">Welcome to the Feature Section of Nutritionist, your ultimate destination for all things nutrition and wellness.</p>
 
 
-            <div className="grid tablet:grid-cols-2 gap-5 mt-[50px]">
-                <div className="p-[30px] medium:p-[40px] bg-[#F6FBE9] border-[1px] border-[#E5F5BD] rounded-[10px]">
+            <div  className="grid tablet:grid-cols-2 gap-5 mt-[50px]">
+                <div data-aos="zoom-in-right" className="p-[30px] medium:p-[40px] bg-[#F6FBE9] border-[1px] border-[#E5F5BD] rounded-[10px]">
                     <div className="flex gap-[10px] items-center mb-4 medium:mb-5">
                         <div className="p-3 bg-[#CBEA7B] rounded-[6px]">
                             <Image
@@ -31,7 +31,7 @@ const Feature = () => {
                 </div>
 
 
-                <div className="p-[30px] medium:p-[40px] bg-[#F6FBE9] border-[1px] border-[#E5F5BD] rounded-[10px]">
+                <div data-aos="zoom-in-left" className="p-[30px] medium:p-[40px] bg-[#F6FBE9] border-[1px] border-[#E5F5BD] rounded-[10px]">
                     <div className="flex gap-[10px] items-center mb-4 medium:mb-5">
                         <div className="p-3 bg-[#CBEA7B] rounded-[6px]">
                             <Image
@@ -48,7 +48,7 @@ const Feature = () => {
                 </div>
 
 
-                <div className="p-[30px] medium:p-[40px] bg-[#F6FBE9] border-[1px] border-[#E5F5BD] rounded-[10px]">
+                <div data-aos="zoom-in-right" className="p-[30px] medium:p-[40px] bg-[#F6FBE9] border-[1px] border-[#E5F5BD] rounded-[10px]">
                     <div className="flex gap-[10px] items-center mb-4 medium:mb-5">
                         <div className="p-3 bg-[#CBEA7B] rounded-[6px]">
                             <Image
@@ -65,7 +65,7 @@ const Feature = () => {
                 </div>
 
 
-                <div className="p-[30px] medium:p-[40px] bg-[#F6FBE9] border-[1px] border-[#E5F5BD] rounded-[10px]">
+                <div data-aos="zoom-in-left" className="p-[30px] medium:p-[40px] bg-[#F6FBE9] border-[1px] border-[#E5F5BD] rounded-[10px]">
                     <div className="flex gap-[10px] items-center mb-4 medium:mb-5">
                         <div className="p-3 bg-[#CBEA7B] rounded-[6px]">
                             <Image
@@ -80,7 +80,7 @@ const Feature = () => {
                     </div>
 
                 </div>
-                <div className="p-[30px] medium:p-[40px] bg-[#F6FBE9] border-[1px] border-[#E5F5BD] rounded-[10px]">
+                <div data-aos="zoom-in-right" className="p-[30px] medium:p-[40px] bg-[#F6FBE9] border-[1px] border-[#E5F5BD] rounded-[10px]">
                     <div className="flex gap-[10px] items-center mb-4 medium:mb-5">
                         <div className="p-3 bg-[#CBEA7B] rounded-[6px]">
                             <Image
@@ -95,7 +95,7 @@ const Feature = () => {
                     </div>
 
                 </div>
-                <div className="p-[30px] medium:p-[40px] bg-[#F6FBE9] border-[1px] border-[#E5F5BD] rounded-[10px]">
+                <div data-aos="zoom-in-left" className="p-[30px] medium:p-[40px] bg-[#F6FBE9] border-[1px] border-[#E5F5BD] rounded-[10px]">
                     <div className="flex gap-[10px] items-center mb-4 medium:mb-5">
                         <div className="p-3 bg-[#CBEA7B] rounded-[6px]">
                             <Image

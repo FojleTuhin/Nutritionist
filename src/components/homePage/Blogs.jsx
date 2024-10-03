@@ -1,3 +1,5 @@
+'use client'
+
 import Image from 'next/image';
 import image1 from '../../../public/Image1.png'
 import image2 from '../../../public/Image2.png'
@@ -10,7 +12,14 @@ import img8 from '../../../public/Image8.png'
 import love from '../../../public/love.svg'
 import save from '../../../public/save.svg'
 
+import AOS from 'aos';
+import 'aos/dist/aos.css';
+import { useEffect } from 'react';
+
 const Blogs = () => {
+    useEffect( ()=>{
+        AOS.init();
+    },[])
     return (
         <div className="mt-[50px] medium:mt-20 laptop:mt-[100px] px-4 tablet:px-10 medium:px-[60px] laptop:px-20">
             <p className="text-[#262626] text-[28px] medium:text-[38px] laptop:text-[48px] font-bold text-center">Our Blogs</p>
@@ -18,7 +27,7 @@ const Blogs = () => {
             <div className='tablet:grid tablet:grid-cols-2 gap-5 justify-center'>
 
                 {/* card 1 */}
-                <div className="p-6   bg-[#F6FBE9] border-[1px] border-[#EEF8D3] rounded-[10px] ">
+                <div data-aos="fade-up-right" className="p-6   bg-[#F6FBE9] border-[1px] border-[#EEF8D3] rounded-[10px] ">
                     <div className=' rounded-[10px]'>
                         <Image
 
@@ -67,7 +76,7 @@ const Blogs = () => {
                 </div>
 
                 {/* card 2 */}
-                <div className="p-6   bg-[#F6FBE9] border-[1px] border-[#EEF8D3] rounded-[10px] ">
+                <div data-aos="fade-up-left"  className="p-6   bg-[#F6FBE9] border-[1px] border-[#EEF8D3] rounded-[10px] ">
                     <div className=' rounded-[10px]'>
                         <Image
 
@@ -117,7 +126,7 @@ const Blogs = () => {
 
 
                 {/* card 3 */}
-                <div className="p-6   bg-[#F6FBE9] border-[1px] border-[#EEF8D3] rounded-[10px] ">
+                <div data-aos="fade-up-right" className="p-6   bg-[#F6FBE9] border-[1px] border-[#EEF8D3] rounded-[10px] ">
                     <div className=' rounded-[10px]'>
                         <Image
 
@@ -166,7 +175,7 @@ const Blogs = () => {
                 </div>
 
                 {/* card 4 */}
-                <div className="p-6   bg-[#F6FBE9] border-[1px] border-[#EEF8D3] rounded-[10px] ">
+                <div data-aos="fade-up-left" className="p-6   bg-[#F6FBE9] border-[1px] border-[#EEF8D3] rounded-[10px] ">
                     <div className=' rounded-[10px]'>
                         <Image
 
