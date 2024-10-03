@@ -36,7 +36,7 @@ const Hero = () => {
                                     class="absolute transitiona-all duration-1000 opacity-70 -inset-px bg-gradient-to-r from-[#44BCFF] via-[#FF44EC] to-[#FF675E] rounded-xl blur-lg group-hover:opacity-100 group-hover:-inset-1 group-hover:duration-200 animate-tilt">
                                 </div>
                                 <a href="#" title="Get quote now"
-                                    class="relative inline-flex items-center justify-center py-[14px] px-5 text-[14px] font-semibold text-[#262626] transition-all duration-200 bg-[#CBEA7B]  rounded-[6px] focus:outline-none focus:ring-2 focus:ring-offset-2 focus:[#CBEA7B]"
+                                    class="relative inline-flex items-center justify-center py-[14px] px-4 text-[14px] font-semibold text-[#262626] transition-all duration-200 bg-[#CBEA7B]  rounded-[6px] focus:outline-none focus:ring-2 focus:ring-offset-2 focus:[#CBEA7B]"
                                     role="button">Get Starter Today
                                 </a>
                             </div>
@@ -46,7 +46,7 @@ const Hero = () => {
                                     class="absolute transitiona-all duration-1000 opacity-70 -inset-px bg-gradient-to-r from-[#44BCFF] via-[#FF44EC] to-[#FF675E] rounded-xl blur-lg group-hover:opacity-100 group-hover:-inset-1 group-hover:duration-200 animate-tilt">
                                 </div>
                                 <a href="#" title="Get quote now"
-                                    class="relative border-[#E5F5BD] border-[1px] inline-flex items-center justify-center py-[14px] px-5 text-[14px] font-semibold text-[#262626] transition-all duration-200 bg-[#F6FBE9]   rounded-[6px] focus:outline-none focus:ring-2 focus:ring-offset-2 focus:[#F6FBE9]"
+                                    class="relative border-[#E5F5BD] border-[1px] inline-flex items-center justify-center py-[14px] px-4 text-[14px] font-semibold text-[#262626] transition-all duration-200 bg-[#F6FBE9]   rounded-[6px] focus:outline-none focus:ring-2 focus:ring-offset-2 focus:[#F6FBE9]"
                                     role="button">Book a Demo
                                 </a>
                             </div>
