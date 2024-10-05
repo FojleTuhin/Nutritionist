@@ -16,6 +16,8 @@ const Navbar = () => {
     return (
         <div>
 
+            
+
             {/* 1st Div */}
             <div className='mobile:h-[94px] mobile:px-4 mobile:pt-10 pb-[14px] medium:h-[68px] medium:py-[14px] medium:px-[80px] bg-[#1A3129] text-[#FFFFFF] border-b-[1px] border-0 border-b-[#234338] relative overflow-hidden'>
                 <div className=' rounded-[6px] border-[1px] py-[10px] mobile:px-1  bg-[#234338] leading-tight border-[#2C5446] relative z-30'>
